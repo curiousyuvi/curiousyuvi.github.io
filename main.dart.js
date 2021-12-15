@@ -63506,7 +63506,7 @@ r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 A.Ey.prototype={
 O(a,b){var s=null,r=A.b6(b),q=A.adS(B.Y).U,p=A.fu(q.a),o=A.fu(q.b),n=A.fu(q.c),m=A.fu(q.d),l=A.fu(q.e),k=A.fu(q.f),j=A.fu(q.r),i=A.fu(q.x),h=A.fu(q.y),g=A.fu(q.z),f=A.fu(q.Q),e=A.fu(q.ch)
-return new A.uW(new A.t5(new A.qs(new A.XD(),s,s,s,A.ayc(),A.axm(),t.Ax),s,s,new A.ub(s),s,t.Va),new A.XE(),"Flutter Portfolio",r.a3u(B.e3,B.D,B.ar,B.e3,new A.dh(p,o,n,m,l,k,j,i,h,g,f,e,A.fu(q.cx))),B.vY,!1,s)}}
+return new A.uW(new A.t5(new A.qs(new A.XD(),s,s,s,A.ayc(),A.axm(),t.Ax),s,s,new A.ub(s),s,t.Va),new A.XE(),"curiousyuvi portfolio",r.a3u(B.e3,B.D,B.ar,B.e3,new A.dh(p,o,n,m,l,k,j,i,h,g,f,e,A.fu(q.cx))),B.vY,!1,s)}}
 A.XE.prototype={
 $2(a,b){var s=null,r=A.c([new A.cO(450,"MOBILE",B.b3,1),new A.cO(800,"TABLET",B.b3,1),new A.cO(1000,"TABLET",B.b3,1),new A.cO(1200,"DESKTOP",B.b3,1),new A.cO(2460,"4K",B.b3,1)],t.ym)
 return A.mJ(B.au,A.aV(s,s,B.j,B.e3,s,s,s,s,s,s,s,s,s),s,r,new A.BV(b,s),!1,s,!0,1,s,s,450,!1)},

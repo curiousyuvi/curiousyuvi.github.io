@@ -64218,7 +64218,7 @@ r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 A.Fo.prototype={
 M(a,b){var s=null,r=A.b3(b),q=A.adJ(B.V).ae,p=A.fw(q.a),o=A.fw(q.b),n=A.fw(q.c),m=A.fw(q.e),l=A.fw(q.f),k=A.fw(q.r),j=A.fw(q.x),i=A.fw(q.y),h=A.fw(q.z),g=A.fw(q.Q),f=A.fw(q.ch),e=A.fw(q.cx)
-return new A.vQ(new A.tP(new A.r6(new A.XW(),s,s,s,A.ayu(),A.axz(),t.Ax),s,s,new A.uZ(s),s,t.Va),new A.XX(),"Flutter Portfolio",r.a3D(B.dC,B.u,B.a2,B.dC,A.adH(s,s,s,h,g,e,f,s,s,s,p,o,n,m,l,k,s,s,s,s,s,s,A.fw(q.db),j,i,s,s,s)),B.ug,!1,s)}}
+return new A.vQ(new A.tP(new A.r6(new A.XW(),s,s,s,A.ayu(),A.axz(),t.Ax),s,s,new A.uZ(s),s,t.Va),new A.XX(),"CURIOUSYUVI'S Portfolio",r.a3D(B.dC,B.u,B.a2,B.dC,A.adH(s,s,s,h,g,e,f,s,s,s,p,o,n,m,l,k,s,s,s,s,s,s,A.fw(q.db),j,i,s,s,s)),B.ug,!1,s)}}
 A.XX.prototype={
 $2(a,b){var s=null,r=A.b([new A.cQ(450,"MOBILE",B.b6,1),new A.cQ(800,"TABLET",B.b6,1),new A.cQ(1000,"TABLET",B.b6,1),new A.cQ(1200,"DESKTOP",B.b6,1),new A.cQ(2460,"4K",B.b6,1)],t.ym)
 return A.kZ(B.ag,A.aK(s,s,B.k,B.dC,s,s,s,s,s,s,s,s,s),s,r,new A.CV(b,s),!1,s,!0,1,s,s,450,!1)},

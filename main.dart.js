@@ -64218,7 +64218,7 @@ r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 A.Fo.prototype={
 M(a,b){var s=null,r=A.b3(b),q=A.adJ(B.V).ae,p=A.fw(q.a),o=A.fw(q.b),n=A.fw(q.c),m=A.fw(q.e),l=A.fw(q.f),k=A.fw(q.r),j=A.fw(q.x),i=A.fw(q.y),h=A.fw(q.z),g=A.fw(q.Q),f=A.fw(q.ch),e=A.fw(q.cx)
-return new A.vQ(new A.tP(new A.r6(new A.XW(),s,s,s,A.ayu(),A.axz(),t.Ax),s,s,new A.uZ(s),s,t.Va),new A.XX(),"CURIOUSYUVI's Portfolio",r.a3D(B.dC,B.u,B.a2,B.dC,A.adH(s,s,s,h,g,e,f,s,s,s,p,o,n,m,l,k,s,s,s,s,s,s,A.fw(q.db),j,i,s,s,s)),B.ug,!1,s)}}
+return new A.vQ(new A.tP(new A.r6(new A.XW(),s,s,s,A.ayu(),A.axz(),t.Ax),s,s,new A.uZ(s),s,t.Va),new A.XX(),"Flutter Portfolio",r.a3D(B.dC,B.u,B.a2,B.dC,A.adH(s,s,s,h,g,e,f,s,s,s,p,o,n,m,l,k,s,s,s,s,s,s,A.fw(q.db),j,i,s,s,s)),B.ug,!1,s)}}
 A.XX.prototype={
 $2(a,b){var s=null,r=A.b([new A.cQ(450,"MOBILE",B.b6,1),new A.cQ(800,"TABLET",B.b6,1),new A.cQ(1000,"TABLET",B.b6,1),new A.cQ(1200,"DESKTOP",B.b6,1),new A.cQ(2460,"4K",B.b6,1)],t.ym)
 return A.kZ(B.ag,A.aK(s,s,B.k,B.dC,s,s,s,s,s,s,s,s,s),s,r,new A.CV(b,s),!1,s,!0,1,s,s,450,!1)},
@@ -64354,6 +64354,8 @@ a=A.kZ(B.ag,f,f,f,A.aK(f,A.acL(A.b([a0,A.hc(A.eW(A.b([r,q,p,o,n,m,A.eJ(A.b([l,k,
 s=A.bd(f,20,f)
 a0=b?B.ah:B.aA
 r=b?1:0
+r=A.hc(A.v4("assets/lyrx.png",f,f,b?f:350),r)
+b=b?1:0
 q=A.dx("REACT APP",A.dt(B.a2,16,B.X,f))
 p=A.bd(f,15,f)
 o=A.dx("LYRX APP",A.dt(B.j,25,B.X,1))
@@ -64365,9 +64367,7 @@ k=A.dX(A.aK(f,A.xW(A.fn(A.el("WEBSITE",f,f,A.cw(f,f,B.j,f,f,f,f,f,f,f,f,13,f,B.U
 j=A.bd(f,f,10)
 i=A.lM(8)
 g=A.agn(B.a2)
-r=A.hc(A.eW(A.b([q,p,o,n,m,l,A.eJ(A.b([k,j,A.dX(A.aK(f,A.xW(A.fn(A.el("GITHUB",f,f,A.cw(f,f,B.a2,f,f,f,f,f,f,f,f,13,f,B.U,f,f,!0,f,f,f,f,f,f,f,f),f,f),f,f),new A.Zo(),f),B.k,f,f,new A.dq(f,f,g,i,f,f,B.ap),f,48,f,new A.ay(28,0,28,0),f,f,f),B.am,f,f,f)],h),B.Q,B.L,B.H)],h),B.aD,B.c9,B.H),r)
-q=b?1:0
-return A.eW(A.b([d,c,a,s,A.kZ(B.ag,f,f,f,A.aK(f,A.acL(A.b([r,A.hc(A.v4("assets/lyrx.png",f,f,b?f:350),q)],h),B.Q,a0,f,B.L,B.H,f,f,B.b8),B.k,f,f,f,f,f,f,f,f,f,f),!1,f,!1,1,e,f,e,!0)],h),B.Q,B.L,B.H)},
+return A.eW(A.b([d,c,a,s,A.kZ(B.ag,f,f,f,A.aK(f,A.acL(A.b([r,A.hc(A.eW(A.b([q,p,o,n,m,l,A.eJ(A.b([k,j,A.dX(A.aK(f,A.xW(A.fn(A.el("GITHUB",f,f,A.cw(f,f,B.a2,f,f,f,f,f,f,f,f,13,f,B.U,f,f,!0,f,f,f,f,f,f,f,f),f,f),f,f),new A.Zo(),f),B.k,f,f,new A.dq(f,f,g,i,f,f,B.ap),f,48,f,new A.ay(28,0,28,0),f,f,f),B.am,f,f,f)],h),B.Q,B.L,B.H)],h),B.aD,B.c9,B.H),b)],h),B.Q,a0,f,B.L,B.H,f,f,B.b8),B.k,f,f,f,f,f,f,f,f,f,f),!1,f,!1,1,e,f,e,!0)],h),B.Q,B.L,B.H)},
 $S:139}
 A.Zl.prototype={
 $0(){B.a8.mr(window,"https://play.google.com/store/apps/details?id=com.curiousyuvi.coderstatus","_blank")},
